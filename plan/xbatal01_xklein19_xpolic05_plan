@@ -1,0 +1,109 @@
+IVS - Projekt 2 – Tímová spolupráca - Kalkulacka
+
+Autori: xpolic05, xbatal01, xklein19
+
+Dátum: 19.3.2019
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+TERM?NY:
+19.3.    plán, repozitár, github
+28.3.    testy, základné operácie
+3.4.      makefile, funkcie
+12.4.    GUI, vzhlad, ovládanie
+19.4.    dokumentácia, nápoveda, manuál, inštalátor/odinštalátor
+24.4.    finálny produkt, ladenie detailov
+30.4.    problémy
+11.5.    inštalácia (zúcastnia sa všetci clenovia tímu)
+od 7.5.  obhajoby (=prezentácia)
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+PRIDELENIE ÚLOH:
+Testovanie  -------------------------------------  xklein19
+- sada testu vytvorená pred samotným programovaním
+- testy sú vytvorené na základe dohodnutých vlastností kalkulacky.
+
+Kontrola dokumentácie  --------------------------  xklein19
+- kontrola a oprava formátu, jazykov‚ správnosti, celistvosti dokumentácie   
+
+Priebežná  kontrola funkcnosti  ------------------  xpolic05
+- kontrola funkcnosti, spustitelnosti kódu a jeho castí s
+využitím testu a debuggeru
+- v prípade nájdených chýb je nefunkcná cast predaná spät zodpovednému clenovi tímu
+
+Dodržovanie termínu, priebežná kontrola práce  ---  xbatal01
+- kontrola, ci clenovia tímu plnia svoje úlohy vcas
+-pridávanie informácií a upozornení o blížiacich sa termínoch pre clenov tímu
+
+Správa úctu na githube  ----------------------  xpolic05
+- kontrola a korekcia obsahu repozitáru
+- správa prístupu clenov tímu (a profesora) k repozitáru
+
+Správa plánovania  ------------------------------  xbatal01
+- správa a kontrola plnenia úloh na discorde
+
+Makefile  --------------------------------------  xklein19
+- vytvorenie makefile súboru
+
+Jednoduché aritmetické operácie  ----------------  xbatal01
+- naprogramovanie aritmetických operácií +,-,*,/ do matematickej knižnice
+- zdokumentovanie kódu
+
+Funkcie naviac povinné  --------------------------  xpolic05
+- naprogramovanie operácií faktoriál, mocnina s prirodzeným exponentom,
+obecná odmocnina a logaritmus do matematickej knižnice
+- zdokumentovanie kódu
+
+Funkcie naviac nepovinné  ------------------------  xklein19
+- naprogramovanie dalších prípadných operácií do matematickej knižnice
+- zdokumentovanie kódu
+
+Algoritmus pre zátvorky  ------------------------  xbatal01
+- naprogramovanie algoritmu na vyhladanie zátvoriek v zadanom výraze a rozdelenie celkového výrazu pomocou zátvoriek na podvýrazy
+- zdokumentovanie kódu
+
+Algoritmus pro prioritu aritmetických výrazov  --  xpolic05
+- naprogramovanie algoritmu na vyhladanie operácie podla priority
+(resp. násobenie/delenie má prednost)
+- zdokumentovanie kódu
+
+Profilling  ------------------------------------  xklein19
+- vytvorenie programu na výpocet smerodajnej odchýlky na z klade funkcie z
+matematickej‚ knižnice
+
+Vzhlad (GUI) kalkulacky  -----------------------  xbatal01
+- vytvorenie základného vzhladu kalkulacky (vrátane tlacidiel, displeja),
+grafické spracovanie
+
+Ovládanie kalkulacky (tlacidlá, displej) ------- xpolic05 
+- naprogramovanie jednotlivých tlacidiel a displeja kalkulacky 
+
+Nápoveda -------------------------------------- xklein19 
+- vytvorenie základnej nápovedy spustitelnej v kalkulacke 
+
+Manuál ---------------------------------------- xklein19 
+- vytvorenie manuálu programátorského aj uživatelského vrátane návodu ako nainštalovat/odinštalovat kalkulacku
+
+Inštalátor/odinštalátor ---------------------- xbatal01 
+- naprogramovanie inštalátoru/odinštalátoru kalkulacky
+
+Prezentácia ------------------------------------ xpolic05 
+- vytvorenie prezentácie k obhajobe projektu 
+- každý clen tímu vypracuje urcitú cast prezentácie no zodpovedný za prezentáciu ich poskladá do celistvého celku do prezentácie.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+KOMUNIKACNÉ KANÁLY: Discord 
+Discord slúži ako komunikacný kanál vo forme chatu. Diskuzné skupiny v kanáli sú rozdelené podla funkcií na casti: general chat, design chat, dokumenty, termíny. 
+Každý podkanál má svojich správcov, ktorý jeho obsah pravidelne aktualizujú a upravujú. Discord umožnuje aj skupinové hovory. Mimo discord sa tým bude pravidelne stretávat na internáte v študovni alebo v škole v knižnici. 
+
+Vedúci tímu, xklein19 (Kristián Klein) Zastupuje tým pri komunikácií s vyucujúcimi, spravuje hlavní komunikacní kanál a dohliada na postup projektu, rovnomerne rozdeluje prácu medzi clenov týmu.
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+SYSÉTM PRE SPRÁVU VERZIÍ A HOSTING: github
+https://github.com/Christian1399/Kalkula-ka-IVS-2019
