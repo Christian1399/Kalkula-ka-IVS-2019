@@ -1,0 +1,1 @@
+Nedodržiavali sme deadliny ku konci, nahradenie funkcie zátvorky za iné funkcie, nedostatočná správa verzii(na Git hube).
