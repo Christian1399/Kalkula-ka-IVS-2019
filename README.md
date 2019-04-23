@@ -13,5 +13,4 @@ xklein19  Kristián Klein
 
 Licencia
 --------
-HTML:
-<a href="https://github.com/Christian1399/Kalkula-ka-IVS-2019/commit/9bce6c541dec090a044a91f382130ab46f90b53a"/a>
+https://github.com/Christian1399/Kalkula-ka-IVS-2019/commit/9bce6c541dec090a044a91f382130ab46f90b53a
