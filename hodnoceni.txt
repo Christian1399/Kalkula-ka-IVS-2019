@@ -1,0 +1,3 @@
+xbatal01 100 (GUI vedecká časť, pokročilé mat. funkcie, inštalátor)
+xpolic05 100 (testy, pokročilé mat. operacie/funkcie, základ GUI)
+xklein19 100 (základné mat. operácie, základ GUI, základný makefile)
