@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DefineConstants>TRACE;NETSTANDARD2_0</DefineConstants>
+    <NoWarn>1701;1702;1705</NoWarn>
+    <OutputPath>C:\Users\kikok\OneDrive\Počítač\Calculator\Nuget\</OutputPath>
+  </PropertyGroup>
+
+</Project>

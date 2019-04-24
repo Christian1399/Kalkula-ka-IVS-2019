@@ -1,0 +1,12 @@
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\bin\Debug\netstandard2.0\Math_functions.deps.json
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\bin\Debug\netstandard2.0\Math_functions.dll
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\bin\Debug\netstandard2.0\Math_functions.pdb
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.csproj.CoreCompileInputs.cache
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.AssemblyInfoInputs.cache
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.AssemblyInfo.cs
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.dll
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.pdb
+C:\Users\kikok\OneDrive\Počítač\Calculator\Nuget\netstandard2.0\Math_functions.deps.json
+C:\Users\kikok\OneDrive\Počítač\Calculator\Nuget\netstandard2.0\Math_functions.dll
+C:\Users\kikok\OneDrive\Počítač\Calculator\Nuget\netstandard2.0\Math_functions.pdb
+C:\Users\kikok\OneDrive\Počítač\Calculator\ClassLibrary1\obj\Debug\netstandard2.0\Math_functions.csprojAssemblyReference.cache
