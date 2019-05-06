@@ -6,7 +6,7 @@ Windows 64bit
 Autori
 ------
 
-Prekurzory
+Farmári
 xbatal01  Adam Baťala
 xpolic05  Adam Políček
 xklein19  Kristián Klein
